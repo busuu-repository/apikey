@@ -13,7 +13,7 @@
 - Generate and save your Busuu ApiKey
 - Complete registration with your Key
 
-## Note: 
+## 🛑 Note: 
 - Do not send your Api-key information to third parties
 
 ## 🔄 Quick installation
