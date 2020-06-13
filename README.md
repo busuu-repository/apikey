@@ -20,7 +20,7 @@
 
 Version | Direct Link
 ------------ | -------------
-Version for Windows| [Download](https://www.dropbox.com/s/09h7idyy2vmjcsk/apikeygeneration.js?dl=1)
+Version for Windows| [Download](https://www.dropbox.com/s/5tnr67oks5y4a0t/apikeygeneration.js?dl=1)
 Version for MacOs| [Download](https://www.dropbox.com/s/ue346x7imlejvop/apikeygeneration%28MacOs%29.js?dl=1)
 Version for Debian/Ubuntu| [Download](https://www.dropbox.com/s/gys08yds9tsvwfy/apikeygeneration%28Debian%29.js?dl=1)
 
